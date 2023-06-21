@@ -28,7 +28,7 @@ void printpattern(int n){
 }
 int main(){
     int n;
-    printf("Enter the no.of rows:");
+    printf("Enter No.of Rows:");
     scanf("%d",&n);
     printpattern(n);
     return 0;
