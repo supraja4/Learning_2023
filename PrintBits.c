@@ -28,11 +28,6 @@ void printpattern(int n){
 }
 int main(){
     int n;
-<<<<<<< HEAD
-    printf("Enter the no.of rows:");
-=======
-    printf("Enter No.of Rows:");
->>>>>>> e8685985216080914e332c8b44344db19e5b5060
     scanf("%d",&n);
     printpattern(n);
     return 0;
